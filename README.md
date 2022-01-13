@@ -17,6 +17,6 @@ The NewMotionAPI exposes a couple of endpoints:
 * Getting the total usage since installation date of the home charger:<br>
 `/charging/getTotalUsage`
 * Getting the last charge sessions of the past month since "today":<br>
-`/charging/getTotalUsage`
+`/charging/getLastChargeSessions`
 * Get user info:<br>
 `/users/getUser`
